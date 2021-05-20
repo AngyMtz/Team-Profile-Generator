@@ -1,6 +1,5 @@
 const Employee = require("../lib/Employee") 
 
-
 describe("Employee", () => {
     
     it("Can create Employee object", () => {
